@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e14a00a5-73d2-491b-8821-4bf6f03a8271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab1f/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lab1f/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lection1-web/src/main/java/Entity/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lection1-web/src/main/java/Entity/MyEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lection1-web/src/main/java/Servlets/JsonServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lection1-web/src/main/java/Servlets/JsonServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +24,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Lessons/2nd Year, 2nd course/Обробка даних в ІТ/Projects/lection1-web"
+    "last_opened_file_path": "D:/Lessons/2nd Year, 2nd course/Обробка даних в ІТ/Labs/for lab 5/lab5"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
